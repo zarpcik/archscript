@@ -1,1 +1,1 @@
-Hi. This is my shell script to download tools what I use daily.
+Hi. This is my shell script to download tools I use daily.
